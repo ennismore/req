@@ -3,9 +3,10 @@ package socks
 import (
 	"bytes"
 	"context"
-	"github.com/imroc/req/v3/internal/tests"
 	"strings"
 	"testing"
+
+	"github.com/ennismore/req/v3/internal/tests"
 )
 
 func TestReply(t *testing.T) {

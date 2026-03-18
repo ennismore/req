@@ -1,9 +1,10 @@
 package req
 
 import (
-	"github.com/imroc/req/v3/internal/dump"
 	"io"
 	"os"
+
+	"github.com/ennismore/req/v3/internal/dump"
 )
 
 // DumpOptions controls the dump behavior.

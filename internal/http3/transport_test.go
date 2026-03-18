@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/imroc/req/v3/internal/testcert"
+	"github.com/ennismore/req/v3/internal/testcert"
 	"github.com/quic-go/quic-go"
 )
 

@@ -1,8 +1,9 @@
 package altsvcutil
 
 import (
-	"github.com/imroc/req/v3/internal/tests"
 	"testing"
+
+	"github.com/ennismore/req/v3/internal/tests"
 )
 
 func TestParseHeader(t *testing.T) {

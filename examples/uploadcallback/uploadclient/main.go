@@ -4,7 +4,8 @@ import (
 	"fmt"
 	"io"
 	"time"
-	"github.com/imroc/req/v3"
+
+	"github.com/ennismore/req/v3"
 )
 
 type SlowReader struct {
