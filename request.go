@@ -14,10 +14,10 @@ import (
 	"strings"
 	"time"
 
+	"github.com/ennismore/req/v3/internal/dump"
+	"github.com/ennismore/req/v3/internal/header"
+	"github.com/ennismore/req/v3/internal/util"
 	"github.com/google/go-querystring/query"
-	"github.com/imroc/req/v3/internal/dump"
-	"github.com/imroc/req/v3/internal/header"
-	"github.com/imroc/req/v3/internal/util"
 )
 
 // Request struct is used to compose and fire individual request from
