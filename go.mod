@@ -8,7 +8,7 @@ require (
 	github.com/icholy/digest v1.1.0
 	github.com/klauspost/compress v1.18.4
 	github.com/quic-go/qpack v0.6.0
-	github.com/quic-go/quic-go v0.59.0
+	github.com/quic-go/quic-go v0.59.1
 	github.com/refraction-networking/utls v1.8.2
 	golang.org/x/net v0.52.0
 	golang.org/x/text v0.35.0
